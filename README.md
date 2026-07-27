@@ -19,7 +19,7 @@
 1. Убедитесь, что у вас установлена .NET 8 SDK и запущен PostgreSQL.
 2. Обновите строку подключения в `TaskManager.Api/Program.cs` (или через переменные окружения).
 3. Запустите проект:
-```bash
+bash
 cd TaskManager.Api
-dotnet run```
+dotnet run
 4. Откройте Swagger UI по адресу: http://localhost:5000/swagger (порт может отличаться).
