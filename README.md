@@ -21,5 +21,5 @@
 3. Запустите проект:
 ```bash
 cd TaskManager.Api
-dotnet run
+dotnet run```
 4. Откройте Swagger UI по адресу: http://localhost:5000/swagger (порт может отличаться).
